@@ -20,5 +20,7 @@ $theme-colors: (
 	dark: $dark,
 	// add any additional color below
 );
-
+body {
+	background-color: aliceblue !important;
+}
 @import '../../../node_modules/bootstrap/scss/bootstrap.scss';
