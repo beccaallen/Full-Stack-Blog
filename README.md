@@ -262,3 +262,4 @@ There are a lot of moving parts even in this _barebones_ boilerplate! This is wh
 
 Code, code, and code. Build shit and deploy. Get projects up and running, conceptually finished, and no matter how dumb. You will always learn something new. Challenge yourself to use different CSS Kits and libraries. Try other database connectors. Try React libraries like Redux. Even if you aren't getting paid for it, it's still valuable experience for you. So happy hacking, and have some fun!
 # Full-Stack-Blog
+# Full-Stack-Blog
